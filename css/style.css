@@ -130,7 +130,7 @@ nav {
     cursor: pointer;
 }
 nav h3 {
-    color: #425b69;
+    color: var(--main-color);
     margin-bottom: 1rem;
 }
 nav a {
